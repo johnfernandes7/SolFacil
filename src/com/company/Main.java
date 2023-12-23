@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// Algoritmo para cálculo do século com base no ano informado.
+	System.out.println(" Algoritmo para cálculo do século com base no ano informado.");
         Scanner sc1 = new Scanner(System.in);
         int ano, seculo;
         System.out.println("Digite um ano: ");

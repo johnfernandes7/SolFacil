@@ -7,7 +7,7 @@ Linux Ubuntu
 O Sistema Operacional Linux
 O Linux
 Origem Linux
-OLinux
+OLinuxss
 
 # isso é um comentário
 bag
